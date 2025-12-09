@@ -7,7 +7,7 @@
 - [**jpstudy-backend**](https://github.com/jpstudy-org/jpstudy-backend) - 서비스 메인 백엔드 API 서버
     - REST API 기반 서비스 주요 기능들을 제공합니다.
     - 데이터 수집 및 처리 로직도 포함된 메인 백엔드 서버입니다
-- [**infra**](https://github.com/jpstudy-org/infra) - 서비스 배포 및 및 인프라 구성을 관리하는 저장소
+- [**infra**](https://github.com/jpstudy-org/infra) - 서비스 배포 및 인프라 구성을 관리하는 저장소
     - 배포 자동화를 위한 구성이 설정되어 있습니다.
     - 중요한 변수는 sealed_secret으로 관리합니다.
 - [**FrontEnd**](https://github.com/jpstudy-org) - 사용자, 관리자 페이지 서버
